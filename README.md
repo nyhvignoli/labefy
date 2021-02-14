@@ -1,8 +1,19 @@
 # Labefy
 
+Link: [nyhv-labefy.surge.sh](nyhv-labefy.surge.sh)
+
 **Labefy** is a simple music streaming application, developed at Web Full Stack bootcamp of [Labenu](https://www.labenu.com.br/) School to practice RESTful API integration, reactivity concepts and styles.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+* Create playlists
+* Show all playlists
+* Add track to a playlist
+* Delete playlist
+* Show and hide all playlists
+* Show all musics by playlists
+* Music player
 
 ## Getting Started
 
@@ -39,21 +50,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Features
-* Create playlists
-* Show all playlists
-* Add track to a playlist
-* Delete playlist
-* Show and hide all playlists
-* Show all musics by playlists
-* Music player
-
 ## Learned Concepts
 * RESTful API Integration
 * Class components
 * Conditional renderization
 
-### Frameworks and Technologies
+## Frameworks and Technologies
 * React
 * Axios
 * styled-components
