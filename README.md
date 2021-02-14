@@ -1,5 +1,7 @@
 # Labefy
 
+Link: [nyhv-labefy.surge.sh](nyhv-labefy.surge.sh)
+
 **Labefy** is a simple music streaming application, developed at Web Full Stack bootcamp of [Labenu](https://www.labenu.com.br/) School to practice RESTful API integration, reactivity concepts and styles.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
