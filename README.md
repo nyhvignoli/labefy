@@ -4,6 +4,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+* Create playlists
+* Show all playlists
+* Add track to a playlist
+* Delete playlist
+* Show and hide all playlists
+* Show all musics by playlists
+* Music player
+
 ## Getting Started
 
 ### `git clone <repository-url>`
@@ -39,21 +48,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Features
-* Create playlists
-* Show all playlists
-* Add track to a playlist
-* Delete playlist
-* Show and hide all playlists
-* Show all musics by playlists
-* Music player
-
 ## Learned Concepts
 * RESTful API Integration
 * Class components
 * Conditional renderization
 
-### Frameworks and Technologies
+## Frameworks and Technologies
 * React
 * Axios
 * styled-components
